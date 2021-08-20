@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "action": "DELETE"
+  },
+  "body": [
+    {
+      "id": 3,
+      "content": null
+    },
+    {
+      "id": 2,
+      "content": null
+    }
+  ]
+}
